@@ -40,3 +40,5 @@ echo 'Categories=AudioVideo;Video;Network;Player;P2P;' >> $desktop_file
 echo 'Type=Application' >> $desktop_file
 chmod 644 $desktop_file
 chown root:root $desktop_file
+
+ln -s /opt/Popcorn-Time/Popcorn-Time /usr/local/bin/popcorntime
