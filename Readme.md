@@ -14,7 +14,7 @@ $ sudo ./install_popcorntime.sh
 
 ## Uninstalling
 
-As the writting of these Readme, I haven't added a script for uninstalling
+As the writting of these file, I haven't added a script for uninstalling
 Popcorn-Time, since it's not something I do often. But you can manually
 uninstall Popcorn-Time by removing the following files:
 
